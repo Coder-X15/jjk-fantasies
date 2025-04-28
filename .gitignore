@@ -2,6 +2,6 @@
 *
 
 # except
-!/lib/*
-!/fonts/*
-!/assets/*
+!lib/*
+!fonts/*
+!assets/*
