@@ -1,0 +1,7 @@
+# everything...
+*
+
+# except
+!./lib/*
+!./fonts/*
+!./assets/*
