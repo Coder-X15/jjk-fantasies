@@ -6,3 +6,5 @@ Yes, and we mean it. Swipe through the wonderful gallery of Jujutsu sorcerers, t
 2. Run `flutter create .` in the project root. Now run this using `flutter run` and you should have it up and running 😀
 
 
+Here's a video: ![](https://github.com/Coder-X15/jjk-fantasies/blob/work/resources/video1.mp4)
+
